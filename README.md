@@ -1,4 +1,4 @@
-# Whether App
+# Weather App
 
 This app provides real-time weather information for your chosen cities, leveraging a weather API. Weather details include temperature, feels like, and a descriptive summary.
 
